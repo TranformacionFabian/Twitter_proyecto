@@ -19,10 +19,9 @@ export default function Widgets() {
   <h2>what s happening</h2>
 
   <TwitterTweetEmbed
-  tweetId={'1570873155387854848'} />
-
-<TwitterTweetEmbed
   tweetId={'1570877493313404931'} />
+
+
 
 <TwitterTimelineEmbed
 sourceType='profile'
